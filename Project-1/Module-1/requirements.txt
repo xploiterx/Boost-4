@@ -1,0 +1,7 @@
+pyarrow
+fastparquet
+pandas
+sqlalchemy
+psycopg2-binary
+jupyterlab
+pgcli
